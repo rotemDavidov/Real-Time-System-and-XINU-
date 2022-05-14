@@ -1,5 +1,4 @@
 //rotem davidov 
-//or yehuda ben shimol
 
 
 #include <stdio.h>
